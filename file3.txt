@@ -1,0 +1,2 @@
+questo è il contenuto
+seconda riga da nano (editor)
