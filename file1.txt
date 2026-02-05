@@ -13,3 +13,5 @@ riga n.11 da github
 riga 13 da locale
 riga 13 da github
 riga 14 da fork
+modifica file ex
+seconda mod per ex, mod nuovo
